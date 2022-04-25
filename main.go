@@ -1,1 +1,3 @@
-funtion() {}
+package main
+
+func main() {}
