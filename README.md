@@ -1,5 +1,13 @@
-# Git and Github Course.
-
-## This repo was use to learn how to use git from Amigoscode :)
-
-![thumb-1920-430944](https://user-images.githubusercontent.com/88590240/165602385-4bcd83ab-6a23-48d2-942e-b645630563f4.jpg)
+# Git and GitHub Course.
+## This repo was use to learn how to use git from AmigosCode :)
+<img align="right" width="400" height="250" src="https://res.cloudinary.com/practicaldev/image/fetch/s--8CA40E5L--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/721lt9kj92i3ov2cthfc.png">
+This course covers the daily essentials: <br />
+:snowflake: Git commits <br />
+:snowflake: Git branches <br />
+:snowflake: Git push <br />
+:snowflake: Git rebase <br />
+:snowflake: Git merge <br />
+:snowflake: Pull requests <br />
+:snowflake: GitHub <br />
+:snowflake: Exploring GitHub <br />
+:snowflake: Open Source Software <br />
