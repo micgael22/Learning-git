@@ -11,3 +11,9 @@ This course covers the daily essentials: <br />
 :snowflake: GitHub <br />
 :snowflake: Exploring GitHub <br />
 :snowflake: Open Source Software <br />
+
+## Screenshots:
+<img align="center" width="400" height="400" src="https://user-images.githubusercontent.com/88590240/166156598-8ab1da25-ac0b-46ba-bccb-025183488749.png"> <img align="center" width="400" height="400" src="https://user-images.githubusercontent.com/88590240/166156366-104ab21f-4032-4b82-83c3-a2fddd83f3e7.png">
+
+
+<img align="center" width="400" height="400" src="https://user-images.githubusercontent.com/88590240/166156386-a56878f9-462a-466e-8245-577a42534afb.png"> <img align="center" width="400" height="400" src="https://user-images.githubusercontent.com/88590240/166156447-bedce611-87d6-4146-8c1d-3fa75ca89751.png">
